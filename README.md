@@ -1,4 +1,4 @@
-# MachineLearning from Coursera
+# MachineLearning
 ex1 - Linear Regression
 
 ex2 - Logistic Regression
